@@ -1,0 +1,10 @@
+E->TD
+D->+TD
+D->-TD
+D->e
+T->FR
+R->*/FR
+R->*FR
+R->e
+F->i
+F->(E)

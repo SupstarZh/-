@@ -1,0 +1,6 @@
+非终结符的first集合:
+first(D)={+,-,e}
+first(E)={(,i}
+first(F)={(,i}
+first(R)={*,e}
+first(T)={(,i}

@@ -1,0 +1,6 @@
+非终结符的follow集合:
+follow(D)={#,)}
+follow(E)={#,)}
+follow(F)={#,),*,+,-}
+follow(R)={#,),+,-}
+follow(T)={#,),+,-}
