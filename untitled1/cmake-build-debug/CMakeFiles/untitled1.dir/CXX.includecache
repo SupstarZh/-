@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuowenjie/CLionProjects/untitled1/Lex_analyzer.cpp
+Lex_analyzer.h
+/home/zhuowenjie/CLionProjects/untitled1/Lex_analyzer.h
+
+/home/zhuowenjie/CLionProjects/untitled1/Lex_analyzer.h
+bits/stdc++.h
+-
+fcntl.h
+-
+unistd.h
+-
+
